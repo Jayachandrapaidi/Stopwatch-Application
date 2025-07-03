@@ -2,12 +2,7 @@
 
 A simple and elegant stopwatch application built using **HTML**, **CSS**, and **JavaScript**. This project was created as part of my web development internship at **Oasis Infobyte**.
 
-![Stopwatch Demo](./images/Screenshot.png)
-
-## 🔗 Live Demo
-
-[Click here to view the live project](https://your-live-demo-link.com)
-
+![Stopwatch Demo](https://github.com/Jayachandrapaidi/Stopwatch-Application/blob/main/Screenshot.png?raw=true)
 ---
 
 ## 📌 Features
